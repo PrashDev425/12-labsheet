@@ -41,7 +41,9 @@
 
 - **Fibonacci** (Using Fibonacci)
 
-## JavaScript Basics **[ Handwritten Code | Printed Output ]**
+## Javascript [ Handwritten Code | Printed Output ]
+
+### JavaScript Basics
 
 **Links**: 
 
@@ -117,3 +119,15 @@
     ```javascript
     function showProfitOrLoss(cp, sp, showAmount);
     ```
+
+### Array and Object
+
+**Links**: 
+
+- https://github.com/PrashDev425/javascript-12/blob/main/array.md
+- https://github.com/PrashDev425/javascript-12/blob/main/object-%26-object-based-programming.md
+
+#### Tasks
+
+- **Array:** https://github.com/PrashDev425/javascript-12/blob/main/array.md#tasks
+- **Object & Object Based Programming:** https://github.com/PrashDev425/javascript-12/blob/main/object-%26-object-based-programming.md#tasks
