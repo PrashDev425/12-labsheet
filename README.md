@@ -131,3 +131,7 @@
 
 - **Array:** https://github.com/PrashDev425/javascript-12/blob/main/array.md#tasks
 - **Object & Object Based Programming:** https://github.com/PrashDev425/javascript-12/blob/main/object-%26-object-based-programming.md#tasks
+
+### DOM and Event Handeling
+
+**Task**: https://github.com/PrashDev425/javascript-12/blob/main/dom-%26-event-handeling.md#tasks
