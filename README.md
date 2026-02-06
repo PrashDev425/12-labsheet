@@ -135,3 +135,16 @@
 ### DOM and Event Handeling
 
 **Task**: https://github.com/PrashDev425/javascript-12/blob/main/dom-%26-event-handeling.md#tasks
+
+### PHP with MySQL
+
+**Links**: 
+
+- https://github.com/PrashDev425/php-12/blob/main/PHP.md
+- https://github.com/PrashDev425/php-12/blob/main/PHP-MYSQL.md
+
+#### Tasks
+
+- **PHP:** https://github.com/PrashDev425/php-12/blob/main/PHP.md#tasks
+- **PHP with MySQL:** https://github.com/PrashDev425/php-12/blob/main/PHP-MYSQL.md#tasks
+
