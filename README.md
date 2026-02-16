@@ -39,7 +39,7 @@
 
 - **Factorial** (Using Recursion)
 
-- **Fibonacci** (Using Fibonacci)
+- **Fibonacci** (Using Recursion)
 
 ## Javascript [ Handwritten Code | Printed Output ]
 
@@ -134,17 +134,20 @@
 
 ### DOM and Event Handeling
 
-**Task**: https://github.com/PrashDev425/javascript-12/blob/main/dom-%26-event-handeling.md#tasks
+**Tasks**: https://github.com/PrashDev425/javascript-12/blob/main/dom-%26-event-handeling.md#tasks
 
-### PHP with MySQL
+## PHP with MySQL
 
 **Links**: 
 
 - https://github.com/PrashDev425/php-12/blob/main/PHP.md
 - https://github.com/PrashDev425/php-12/blob/main/PHP-MYSQL.md
 
-#### Tasks
+### Tasks
 
 - **PHP:** https://github.com/PrashDev425/php-12/blob/main/PHP.md#tasks
 - **PHP with MySQL:** https://github.com/PrashDev425/php-12/blob/main/PHP-MYSQL.md#tasks
 
+## Remaining C [Structure, Pointer & File]
+
+**Links**: https://github.com/PrashDev425/remaining-c-lab
